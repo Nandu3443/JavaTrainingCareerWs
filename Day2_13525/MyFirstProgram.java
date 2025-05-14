@@ -14,6 +14,6 @@ public class MyFirstProgram {
 			
 			System.out.println(Byte.MIN_VALUE);
 			System.out.println(Byte.MAX_VALUE);
-	}
+			}
 
 }
