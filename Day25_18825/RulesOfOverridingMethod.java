@@ -3,9 +3,9 @@ class ParentGamma{
 		return a+b;
 	}
 	
-	public Object play() {
-		return new Parent();
-	}
+//	public Object play() {
+//		return new Parent();
+//	}
 }
 
 class ChildGamma extends ParentGamma{
